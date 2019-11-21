@@ -1,0 +1,6 @@
+select waste_bin_id
+from objectrecognitionsensor
+where waste_bin_id not in
+(select objectrecognitionsensor.waste_bin_id
+from objectrecognitionsensor, loadsensor
+where objectrecognitionsensor.waste_bin_id = loadsensor.waste_bin_id)

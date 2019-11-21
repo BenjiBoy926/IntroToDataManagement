@@ -1,0 +1,2377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="assignment3.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1517"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1515" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1501"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1499" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1487"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1485" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1475"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1473"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1453"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1451" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1449"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1447" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1411"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1409"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1405"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1403" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1363"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1361"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1349"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1347"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1335"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1333"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1329"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1327" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1323"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1321"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1285"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1283"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker11816"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path11814"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11289"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path11287" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker10987"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10985"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker10815"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10813"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10399"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path10397" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker6446"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path6444"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker6158"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6156"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5578"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path5576" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5280"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5278"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4781"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path4779" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4411"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4409"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4315"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path4313" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4077"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path4075" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker3987"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path3985"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker3632"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3630"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3410"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path3408" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker3216"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path3214"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2630"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2628"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2230"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path2228" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2066"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2064"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1888"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1886"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1696"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1694" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1540"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1538" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1037"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="332.42231"
+     inkscape:cy="-2100.7252"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="729"
+     inkscape:window-height="696"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot815"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:5.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion817"><rect
+           id="rect819"
+           width="143.92857"
+           height="52.5"
+           x="36.785713"
+           y="60.733971" /></flowRegion><flowPara
+         id="flowPara821" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot823"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:5.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion825"><rect
+           id="rect827"
+           width="25.535715"
+           height="12.142858"
+           x="20.892857"
+           y="52.876827" /></flowRegion><flowPara
+         id="flowPara829" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot831"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.320097,0,0,3.320097,20.469623,-116.405)"><flowRegion
+         id="flowRegion833"><rect
+           id="rect835"
+           width="80.35714"
+           height="54.642857"
+           x="14.642858"
+           y="39.126827" /></flowRegion><flowPara
+         id="flowPara837">⋈</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot839"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion841"><rect
+           id="rect843"
+           width="85.89286"
+           height="23.571428"
+           x="32.67857"
+           y="95.198257" /></flowRegion><flowPara
+         id="flowPara845" /></flowRoot>    <g
+       id="g856"
+       transform="matrix(1.4817505,0,0,1.4817505,58.157601,-0.73991197)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path847"
+         d="M 10.677827,24.951636 V 31.70796"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path849"
+         d="M 14.552083,24.951636 V 31.56622"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path851"
+         d="M 8.2682291,24.904389 H 17.197916"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot858"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.1329946,0,0,3.1329946,-210.18797,-236.7454)"><flowRegion
+         id="flowRegion860"><rect
+           id="rect862"
+           width="74.246216"
+           height="48.487324"
+           x="95.964493"
+           y="83.83033" /></flowRegion><flowPara
+         id="flowPara864">σ</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot866"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.2871587,0,0,3.2871587,-168.88632,-416.58776)"><flowRegion
+         id="flowRegion868"><rect
+           id="rect870"
+           width="82.85714"
+           height="51.785713"
+           x="85"
+           y="133.59111" /></flowRegion><flowPara
+         id="flowPara872">ρ</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot874"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.96254928,0,0,0.96254928,17.718466,-8.861442)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion876"><rect
+           id="rect878"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara880">Faculty</flowPara></flowRoot>    <flowRoot
+       transform="matrix(3.1329946,0,0,3.1329946,-237.26013,-172.03368)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot888"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion884"><rect
+           y="83.83033"
+           x="95.964493"
+           height="48.487324"
+           width="74.246216"
+           id="rect882" /></flowRegion><flowPara
+         id="flowPara886">σ</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 68.455154,119.47093 0.171892,-8.07855"
+       id="path890"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       transform="matrix(0.55440135,0,0,0.55440135,50.321566,25.605283)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1528"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1524"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect1522" /></flowRegion><flowPara
+         id="flowPara1526">research_area = &quot;Privacy and Security&quot;</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1536"
+       d="m 68.970807,94.204011 0.17189,-8.078541"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1540)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       transform="matrix(1.4817505,0,0,1.4817505,50.164571,34.235909)"
+       id="g1632"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 10.677827,24.951636 V 31.70796"
+         id="path1626"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 14.552083,24.951636 V 31.56622"
+         id="path1628"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 8.2682291,24.904389 H 17.197916"
+         id="path1630"
+         inkscape:connector-curvature="0" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1640"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.55440135,0,0,0.55440135,52.212287,3.947928)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1636"><rect
+           id="rect1634"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara1642">name, school_name</flowPara></flowRoot>    <flowRoot
+       transform="matrix(3.0930569,0,0,3.0930569,-102.36907,-330.1644)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1652"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1648"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect1646" /></flowRegion><flowPara
+         id="flowPara1650">(1)</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.96254928,0,0,0.96254928,-3.7143149,131.04134)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1660"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1656"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect1654" /></flowRegion><flowPara
+         id="flowPara1658">WasteBin</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1668"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.96254928,0,0,0.96254928,40.526317,132.49983)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1664"><rect
+           id="rect1662"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara1666">CompostBin</flowPara></flowRoot>    <flowRoot
+       transform="matrix(3.320097,0,0,3.320097,14.107826,102.74199)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1676"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1672"><rect
+           y="39.126827"
+           x="14.642858"
+           height="54.642857"
+           width="80.35714"
+           id="rect1670" /></flowRegion><flowPara
+         id="flowPara1674">⋈</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.71517425,0,0,0.71517425,51.903636,143.63187)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1684"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1680"><rect
+           y="134.5905"
+           x="42.805214"
+           height="17.425127"
+           width="71.215752"
+           id="rect1678" /></flowRegion><flowPara
+         id="flowPara1682">WasteBin.waste_bin_id = CompostBin.waste_bin_id</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1692"
+       d="m 48.967017,257.67216 11.11051,-8.80778"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1696)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1888)"
+       d="M 88.903297,260.8322 77.792788,252.02441"
+       id="path1884"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2040"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.320097,0,0,3.320097,49.354482,71.384615)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion2036"><rect
+           id="rect2034"
+           width="80.35714"
+           height="54.642857"
+           x="14.642858"
+           y="39.126827" /></flowRegion><flowPara
+         id="flowPara2038">⋈</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2048"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.71517425,0,0,0.71517425,29.78332,106.68366)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion2044"><rect
+           id="rect2042"
+           width="72.23542"
+           height="32.380276"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara2046">x &gt;= lowerLeftX</flowPara><flowPara
+         id="flowPara2050">x &lt;= upperRightX</flowPara><flowPara
+         id="flowPara2052">y &gt;= lowerLeftY</flowPara><flowPara
+         id="flowPara2054">y &lt;= upperRightY  </flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2066)"
+       d="M 75.70586,236.03798 97.268826,223.09785"
+       id="path2062"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       transform="matrix(0.96254928,0,0,0.96254928,84.523871,98.954727)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot2218"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion2214"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect2212" /></flowRegion><flowPara
+         id="flowPara2216">Building</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path2226"
+       d="M 135.33165,225.58554 119.35953,214.10387"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2230)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2618"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.96254928,0,0,0.96254928,123.41674,104.05942)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion2614"><rect
+           id="rect2612"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara2616">Building</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2630)"
+       d="m 176.16915,229.96098 0.0711,-14.39864"
+       id="path2626"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g2844"
+       transform="matrix(1.4817505,0,0,1.4817505,157.60611,164.08847)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2838"
+         d="M 10.677827,24.951636 V 31.70796"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2840"
+         d="M 14.552083,24.951636 V 31.56622"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2842"
+         d="M 8.2682291,24.904389 H 17.197916"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       transform="matrix(0.55440135,0,0,0.55440135,159.65383,133.80049)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot2852"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion2848"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect2846" /></flowRegion><flowPara
+         id="flowPara2850">name</flowPara></flowRoot>    <g
+       transform="matrix(1.4817505,0,0,1.4817505,92.70364,141.23891)"
+       id="g3190"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 10.677827,24.951636 V 31.70796"
+         id="path3184"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 14.552083,24.951636 V 31.56622"
+         id="path3186"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 8.2682291,24.904389 H 17.197916"
+         id="path3188"
+         inkscape:connector-curvature="0" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3198"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.55440135,0,0,0.55440135,94.751358,110.95093)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion3194"><rect
+           id="rect3192"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara3196">name</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3216)"
+       d="m 109.42664,204.32239 1.04352,-9.78011"
+       id="path3212"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       transform="matrix(6.6833742,0,0,6.6833742,-135.76509,-763.49812)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3398"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion3394"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect3392" /></flowRegion><flowPara
+         id="flowPara3396">-</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3406"
+       d="m 116.47597,173.93734 28.5116,-13.91247"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3410)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3632)"
+       d="m 176.27375,196.7869 -12.3259,-31.90042"
+       id="path3628"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3898"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.0930569,0,0,3.0930569,-79.680412,-251.78538)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion3894"><rect
+           id="rect3892"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara3896">(2)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3906"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.96254928,0,0,0.96254928,1.0984331,247.23478)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion3902"><rect
+           id="rect3900"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara3904">WasteBin</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.96254928,0,0,0.96254928,57.493088,278.83524)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3914"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion3910"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect3908" /></flowRegion><flowPara
+         id="flowPara3912">LoadObservation</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3922"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.320097,0,0,3.320097,18.920572,218.93545)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion3918"><rect
+           id="rect3916"
+           width="80.35714"
+           height="54.642857"
+           x="14.642858"
+           y="39.126827" /></flowRegion><flowPara
+         id="flowPara3920">⋈</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3930"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.71517425,0,0,0.71517425,56.716381,256.90836)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion3926"><rect
+           id="rect3924"
+           width="111.66265"
+           height="25.922367"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara3928">weight &gt; capacity &amp;</flowPara><flowPara
+         id="flowPara3944">timestamep &gt; &quot;2019-10-26 13:00:00&quot; &amp;</flowPara><flowPara
+         id="flowPara3948">waste_bin_id = WasteBin.waste_bin_id </flowPara><flowPara
+         id="flowPara3946" /></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3987)"
+       d="m 53.779763,373.86559 11.110511,-8.80776"
+       id="path3932"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3934"
+       d="M 93.716042,377.02563 82.605536,368.21785"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4315)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3956"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.96254928,0,0,0.96254928,17.870981,271.54285)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion3952"><rect
+           id="rect3950"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara3954">LoadSensor</flowPara></flowRoot>    <flowRoot
+       transform="matrix(3.320097,0,0,3.320097,37.880843,242.27117)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3964"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion3960"><rect
+           y="39.126827"
+           x="14.642858"
+           height="54.642857"
+           width="80.35714"
+           id="rect3958" /></flowRegion><flowPara
+         id="flowPara3962">⋈</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.71517425,0,0,0.71517425,75.433576,282.18871)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3978"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion3968"><rect
+           y="134.5905"
+           x="42.805214"
+           height="25.922367"
+           width="111.66265"
+           id="rect3966" /></flowRegion><flowPara
+         id="flowPara3974">LoadSensor.sensor_id = LoadObservation.sensor_id</flowPara><flowPara
+         id="flowPara3976" /></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4073"
+       d="m 71.281554,397.93056 11.110511,-8.80777"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4077)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4411)"
+       d="m 112.43323,406.43834 -7.95046,-13.6694"
+       id="path4407"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       transform="matrix(1.4817505,0,0,1.4817505,58.944806,292.3138)"
+       id="g4761"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 10.677827,24.951636 V 31.70796"
+         id="path4755"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 14.552083,24.951636 V 31.56622"
+         id="path4757"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 8.2682291,24.904389 H 17.197916"
+         id="path4759"
+         inkscape:connector-curvature="0" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4769"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.85372483,0,0,0.85372483,50.314796,218.0504)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion4765"><rect
+           id="rect4763"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara4767">X, Y</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4777"
+       d="m 77.601645,352.71762 0.17189,-8.80778"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4781)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       transform="matrix(3.0930569,0,0,3.0930569,-102.36907,-84.026792)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5119"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion5115"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect5113" /></flowRegion><flowPara
+         id="flowPara5117">(3)</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.96254928,0,0,0.96254928,-6.4370609,362.94103)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5127"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion5123"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect5121" /></flowRegion><flowPara
+         id="flowPara5125">LocationSensor</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5135"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.96254928,0,0,0.96254928,62.354696,395.51385)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion5131"><rect
+           id="rect5129"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara5133">LocationObservation</flowPara></flowRoot>    <flowRoot
+       transform="matrix(3.320097,0,0,3.320097,23.78218,335.614)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5143"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion5139"><rect
+           y="39.126827"
+           x="14.642858"
+           height="54.642857"
+           width="80.35714"
+           id="rect5137" /></flowRegion><flowPara
+         id="flowPara5141">⋈</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.71517425,0,0,0.71517425,61.82107,376.74699)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5157"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion5147"><rect
+           y="134.5905"
+           x="42.805214"
+           height="25.922367"
+           width="111.66265"
+           id="rect5145" /></flowRegion><flowPara
+         id="flowPara5153">LocationObservation.sensor_id = LocationSensor.sensor_id</flowPara><flowPara
+         id="flowPara5155" /></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5159"
+       d="m 58.641373,490.54417 11.110513,-8.80776"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3987)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4315)"
+       d="M 98.577653,493.70421 87.467144,484.89643"
+       id="path5161"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       transform="matrix(0.96254928,0,0,0.96254928,22.732589,388.22144)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5169"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion5165"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect5163" /></flowRegion><flowPara
+         id="flowPara5167">WasteBin</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5177"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.320097,0,0,3.320097,42.742451,358.94973)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion5173"><rect
+           id="rect5171"
+           width="80.35714"
+           height="54.642857"
+           x="14.642858"
+           y="39.126827" /></flowRegion><flowPara
+         id="flowPara5175">⋈</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5187"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.71517425,0,0,0.71517425,82.752029,396.22147)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion5181"><rect
+           id="rect5179"
+           width="111.9269"
+           height="34.114258"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara5183">WasteBin.X = LocationObservation.X &amp; WasteBin.Y = LocationObservation.Y &amp; </flowPara><flowPara
+         id="flowPara1176">timestamp &gt;= &quot;2019-10-26 13:00:00&quot;</flowPara><flowPara
+         id="flowPara1178">timestamp &lt;= &quot;2019-10-26 15:00:00&quot;</flowPara><flowPara
+         id="flowPara5185" /></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4077)"
+       d="m 76.143163,514.60915 11.110512,-8.80778"
+       id="path5189"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5191"
+       d="m 117.29484,523.11692 -7.95046,-13.66939"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4411)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g5199"
+       transform="matrix(1.4817505,0,0,1.4817505,63.806414,408.99239)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5193"
+         d="M 10.677827,24.951636 V 31.70796"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5195"
+         d="M 14.552083,24.951636 V 31.56622"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5197"
+         d="M 8.2682291,24.904389 H 17.197916"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       transform="matrix(0.85372483,0,0,0.85372483,55.176404,334.72899)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5207"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion5203"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect5201" /></flowRegion><flowPara
+         id="flowPara5205">user_id</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4781)"
+       d="m 82.463251,469.39618 0.171892,-8.80775"
+       id="path5209"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5217"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.0930569,0,0,3.0930569,-97.507472,32.651793)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion5213"><rect
+           id="rect5211"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara5215">(4)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5242"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.96254928,0,0,0.96254928,29.018635,589.94737)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion5238"><rect
+           id="rect5236"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara5240">WasteBin</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5280)"
+       d="m 81.699961,716.57814 8.360373,-8.12022"
+       id="path5244"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       transform="matrix(3.320097,0,0,3.320097,37.397643,557.10451)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5252"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion5248"><rect
+           y="39.126827"
+           x="14.642858"
+           height="54.642857"
+           width="80.35714"
+           id="rect5246" /></flowRegion><flowPara
+         id="flowPara5250">⋈</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.71517425,0,0,0.71517425,17.826482,592.40356)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5266"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion5256"><rect
+           y="134.5905"
+           x="42.805214"
+           height="32.380276"
+           width="72.23542"
+           id="rect5254" /></flowRegion><flowPara
+         id="flowPara5258">x &gt;= lowerLeftX</flowPara><flowPara
+         id="flowPara5260">x &lt;= upperRightX</flowPara><flowPara
+         id="flowPara5262">y &gt;= lowerLeftY</flowPara><flowPara
+         id="flowPara5264">y &lt;= upperRightY  </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5274"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.96254928,0,0,0.96254928,72.567031,584.67462)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion5270"><rect
+           id="rect5268"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara5272">Building</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker10815)"
+       d="M 123.37481,711.30545 107.40269,699.82374"
+       id="path5276"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       transform="matrix(1.4817505,0,0,1.4817505,77.939626,635.8686)"
+       id="g5558"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 10.677827,24.951636 V 31.70796"
+         id="path5552"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 14.552083,24.951636 V 31.56622"
+         id="path5554"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 8.2682291,24.904389 H 17.197916"
+         id="path5556"
+         inkscape:connector-curvature="0" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5566"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.85372483,0,0,0.85372483,-4.2566479,550.77651)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion5562"><rect
+           id="rect5560"
+           width="66.963356"
+           height="28.181858"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara5564">WasteBin.waste_bin_id,</flowPara><flowPara
+         id="flowPara11708">WasteBin.X, WasteBin.Y</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5574"
+       d="m 95.622551,692.6863 0.109959,-5.54195"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5578)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g6138"
+       transform="matrix(1.4817505,0,0,1.4817505,136.38012,634.49353)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6132"
+         d="M 10.677827,24.951636 V 31.70796"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6134"
+         d="M 14.552083,24.951636 V 31.56622"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6136"
+         d="M 8.2682291,24.904389 H 17.197916"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker6158)"
+       d="m 155.90649,695.11707 -0.6193,-7.97272"
+       id="path6154"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       transform="matrix(0.96254928,0,0,0.96254928,103.27244,566.57116)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6418"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion6414"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect6412" /></flowRegion><flowPara
+         id="flowPara6416">WasteBin</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:3.63798141;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 117.35653,646.43646 h 8.5942"
+       id="path6434"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker6446)"
+       d="M 98.296437,668.86444 112.26196,652.38385"
+       id="path6442"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path10395"
+       d="m 153.23261,666.91979 -23.95502,-13.8067"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker10399)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       transform="matrix(0.85372483,0,0,0.85372483,129.81272,555.58929)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot11718"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion11712"><rect
+           y="134.5905"
+           x="42.805214"
+           height="28.181858"
+           width="66.963356"
+           id="rect11710" /></flowRegion><flowPara
+         id="flowPara11714">WasteBin.waste_bin_id,</flowPara><flowPara
+         id="flowPara11716">WasteBin.X, WasteBin.Y</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11726"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.96254928,0,0,0.96254928,41.690401,490.82256)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion11722"><rect
+           id="rect11720"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara11724">LocationSensor</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.96254928,0,0,0.96254928,110.48216,523.39536)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot11734"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion11730"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect11728" /></flowRegion><flowPara
+         id="flowPara11732">LocationObservation</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11742"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.320097,0,0,3.320097,71.909646,463.49552)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion11738"><rect
+           id="rect11736"
+           width="80.35714"
+           height="54.642857"
+           x="14.642858"
+           y="39.126827" /></flowRegion><flowPara
+         id="flowPara11740">⋈</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11752"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.71517425,0,0,0.71517425,109.94854,504.62851)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion11746"><rect
+           id="rect11744"
+           width="111.66265"
+           height="25.922367"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara11748">LocationObservation.sensor_id = LocationSensor.sensor_id</flowPara><flowPara
+         id="flowPara11750" /></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3987)"
+       d="m 106.76884,618.42571 11.11051,-8.80777"
+       id="path11754"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path11756"
+       d="m 146.70512,621.58573 -11.11051,-8.80779"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4315)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       transform="matrix(3.320097,0,0,3.320097,90.869912,486.83125)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot11772"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion11768"><rect
+           y="39.126827"
+           x="14.642858"
+           height="54.642857"
+           width="80.35714"
+           id="rect11766" /></flowRegion><flowPara
+         id="flowPara11770">⋈</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.71517425,0,0,0.71517425,128.42265,526.74883)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot11782"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion11776"><rect
+           y="134.5905"
+           x="42.805214"
+           height="25.922367"
+           width="111.66265"
+           id="rect11774" /></flowRegion><flowPara
+         id="flowPara11778">WasteBin.X = LocationObservation.X &amp; WasteBin.Y = LocationObservation.Y</flowPara><flowPara
+         id="flowPara11780" /></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path11784"
+       d="m 124.27063,642.49066 11.11051,-8.80778"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker11816)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4411)"
+       d="m 165.4223,650.99843 -7.95046,-13.66937"
+       id="path11786"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       transform="matrix(1.4817505,0,0,1.4817505,111.93388,536.87392)"
+       id="g11794"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 10.677827,24.951636 V 31.70796"
+         id="path11788"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 14.552083,24.951636 V 31.56622"
+         id="path11790"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 8.2682291,24.904389 H 17.197916"
+         id="path11792"
+         inkscape:connector-curvature="0" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11802"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.85372483,0,0,0.85372483,103.30387,462.61052)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion11798"><rect
+           id="rect11796"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara11800">waste_bin_id</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path11804"
+       d="m 130.59072,597.27773 0.17189,-8.80779"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4781)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       transform="matrix(3.0930569,0,0,3.0930569,-80.491832,159.30659)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot11812"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion11808"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect11806" /></flowRegion><flowPara
+         id="flowPara11810">(5)</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       xml:space="preserve"
+       id="flowRoot1186"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.96254928,0,0,0.96254928,66.794789,749.41277)"><flowRegion
+         id="flowRegion1182"><rect
+           id="rect1180"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara1184">LocationSensor</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       transform="matrix(0.96254928,0,0,0.96254928,137.47644,782.74155)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1194"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1190"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect1188" /></flowRegion><flowPara
+         id="flowPara1192">LocationObservation</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       xml:space="preserve"
+       id="flowRoot1202"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.320097,0,0,3.320097,97.01403,722.08574)"><flowRegion
+         id="flowRegion1198"><rect
+           id="rect1196"
+           width="80.35714"
+           height="54.642857"
+           x="14.642858"
+           y="39.126827" /></flowRegion><flowPara
+         id="flowPara1200">⋈</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       xml:space="preserve"
+       id="flowRoot1212"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.71517425,0,0,0.71517425,135.05292,763.21873)"><flowRegion
+         id="flowRegion1206"><rect
+           id="rect1204"
+           width="111.66265"
+           height="25.922367"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara1208">LocationObservation.sensor_id = LocationSensor.sensor_id</flowPara><flowPara
+         id="flowPara1210" /></flowRoot>    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1405)"
+       d="m 131.87322,877.01591 11.11052,-8.80776"
+       id="path1214"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1216"
+       d="M 171.80951,880.17595 160.699,871.36817"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4315)" />
+    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       transform="matrix(3.320097,0,0,3.320097,115.9743,745.42147)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1232"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1228"><rect
+           y="39.126827"
+           x="14.642858"
+           height="54.642857"
+           width="80.35714"
+           id="rect1226" /></flowRegion><flowPara
+         id="flowPara1230">⋈</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       transform="matrix(0.71517425,0,0,0.71517425,155.98389,784.96107)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1246"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1236"><rect
+           y="134.5905"
+           x="42.805214"
+           height="34.114258"
+           width="111.9269"
+           id="rect1234" /></flowRegion><flowPara
+         id="flowPara1242">WasteBin.X = LocationObservation.X &amp; WasteBin.Y = LocationObservation.Y</flowPara><flowPara
+         id="flowPara1244" /></flowRoot>    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1248"
+       d="m 127.83038,932.45292 11.86646,-9.94171"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1323)" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1487)"
+       d="m 192.41659,910.34462 -7.95046,-13.66939"
+       id="path1250"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1268"
+       d="M 153.82422,856.40246 139.29629,842.51659"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1285)" />
+    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       transform="matrix(3.0930569,0,0,3.0930569,-75.815486,368.49427)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1276"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1272"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect1270" /></flowRegion><flowPara
+         id="flowPara1274">(6)</flowPara></flowRoot>    <flowRoot
+       transform="matrix(3.320097,0,0,3.320097,78.557254,824.86189)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1293"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1289"><rect
+           y="39.126827"
+           x="14.642858"
+           height="54.642857"
+           width="80.35714"
+           id="rect1287" /></flowRegion><flowPara
+         id="flowPara1291">⋈</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1301"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.96254928,0,0,0.96254928,107.2997,858.75275)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1297"><rect
+           id="rect1295"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara1299">ObjectRecoObservation</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       transform="matrix(0.96254928,0,0,0.96254928,37.374097,857.61883)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1309"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1305"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect1303" /></flowRegion><flowPara
+         id="flowPara1307">ObjectRecoSensor</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       transform="matrix(0.59584172,0,0,0.59584172,121.40543,881.75893)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1317"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1313"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.462011"
+           width="96.49688"
+           id="rect1311" /></flowRegion><flowPara
+         id="flowPara1315">ObjectRecoSensor.sensor_id =</flowPara><flowPara
+         id="flowPara1319">ObjectRecoObservation.sensor_id</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1329)"
+       d="M 158.44646,984.23566 148.3903,974.67192"
+       id="path1325"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1331"
+       d="M 106.28574,984.61363 124.5778,968.24632"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1335)" />
+    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       xml:space="preserve"
+       id="flowRoot1343"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.320097,0,0,3.320097,60.265705,793.60057)"><flowRegion
+         id="flowRegion1339"><rect
+           id="rect1337"
+           width="80.35714"
+           height="54.642857"
+           x="14.642858"
+           y="39.126827" /></flowRegion><flowPara
+         id="flowPara1341">⋈</flowPara></flowRoot>    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1345"
+       d="m 133.59039,957.5087 -8.71981,-13.03824"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1349)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1357"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.96254928,0,0,0.96254928,38.710445,827.95191)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1353"><rect
+           id="rect1351"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara1355">RecycleBin</flowPara></flowRoot>    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1359"
+       d="M 98.310808,956.17236 110.43802,944.20319"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1363)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1373"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.59584172,0,0,0.59584172,48.368127,852.06515)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1367"><rect
+           id="rect1365"
+           width="96.49688"
+           height="27.462011"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara1371">trash_type != Recycle</flowPara></flowRoot>    <flowRoot
+       transform="matrix(3.320097,0,0,3.320097,72.425233,691.34974)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1383"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1379"><rect
+           y="39.126827"
+           x="14.642858"
+           height="54.642857"
+           width="80.35714"
+           id="rect1377" /></flowRegion><flowPara
+         id="flowPara1381">⋈</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.71517425,0,0,0.71517425,110.46412,732.48273)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1393"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1387"><rect
+           y="134.5905"
+           x="42.805214"
+           height="25.922367"
+           width="111.66265"
+           id="rect1385" /></flowRegion><flowPara
+         id="flowPara1389">LocationSensor.user_id = </flowPara><flowPara
+         id="flowPara1413">Student.user_id</flowPara><flowPara
+         id="flowPara1391" /></flowRoot>    <flowRoot
+       transform="matrix(0.96254928,0,0,0.96254928,57.440355,720.28039)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1401"
+       xml:space="preserve"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1397"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect1395" /></flowRegion><flowPara
+         id="flowPara1399">Student</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1407"
+       d="m 112.09527,849.21988 7.36875,-8.80776"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1411)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1449)"
+       d="m 126.56273,826.46827 -5.97531,-7.4714"
+       id="path1415"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       xml:space="preserve"
+       id="flowRoot1423"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.320097,0,0,3.320097,55.587253,669.16637)"><flowRegion
+         id="flowRegion1419"><rect
+           id="rect1417"
+           width="80.35714"
+           height="54.642857"
+           x="14.642858"
+           y="39.126827" /></flowRegion><flowPara
+         id="flowPara1421">⋈</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       xml:space="preserve"
+       id="flowRoot1435"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.71517425,0,0,0.71517425,93.62614,710.29936)"><flowRegion
+         id="flowRegion1427"><rect
+           id="rect1425"
+           width="111.66265"
+           height="25.922367"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara1429">User.user_id = </flowPara><flowPara
+         id="flowPara1431">Student.user_id</flowPara><flowPara
+         id="flowPara1433" /></flowRoot>    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       xml:space="preserve"
+       id="flowRoot1443"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.96254928,0,0,0.96254928,45.680496,698.63156)"><flowRegion
+         id="flowRegion1439"><rect
+           id="rect1437"
+           width="64.144684"
+           height="27.779196"
+           x="42.805214"
+           y="134.5905" /></flowRegion><flowPara
+         id="flowPara1441">User</flowPara></flowRoot>    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1453)"
+       d="m 95.25729,827.03651 7.36875,-8.80776"
+       id="path1445"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       id="g1461"
+       transform="matrix(1.4817505,0,0,1.4817505,93.791023,744.00487)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1455"
+         d="M 10.677827,24.951636 V 31.70796"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1457"
+         d="M 14.552083,24.951636 V 31.56622"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1459"
+         d="M 8.2682291,24.904389 H 17.197916"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       transform="matrix(0.85372483,0,0,0.85372483,85.161013,669.74147)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1469"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1465"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect1463" /></flowRegion><flowPara
+         id="flowPara1467">name</flowPara></flowRoot>    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1471"
+       d="m 113.14458,803.22273 -0.49466,-7.84937"
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1475)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1483"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.320097,0,0,3.320097,88.760015,772.25778)"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1479"><rect
+           id="rect1477"
+           width="80.35714"
+           height="54.642857"
+           x="14.642858"
+           y="39.126827" /></flowRegion><flowPara
+         id="flowPara1481">⋈</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       transform="matrix(0.96254928,0,0,0.96254928,113.27864,801.49223)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1495"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1491"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.779196"
+           width="64.144684"
+           id="rect1489" /></flowRegion><flowPara
+         id="flowPara1493">WasteBin</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1501)"
+       d="m 163.79184,928.64359 -7.65073,-7.15831"
+       id="path1497"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       transform="matrix(0.59584172,0,0,0.59584172,67.878802,829.07997)"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1509"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1505"><rect
+           y="134.5905"
+           x="42.805214"
+           height="27.462011"
+           width="96.49688"
+           id="rect1503" /></flowRegion><flowPara
+         id="flowPara1507">RecycleBin.waste_bin_id =</flowPara><flowPara
+         id="flowPara1511">WasteBin.waste_bin_id</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96254915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1517)"
+       d="m 149.37502,906.37256 11.86646,-9.94171"
+       id="path1513"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\School\UCIWinter2019\CS122A_IntroToDataManagement\assignment3\problem6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
